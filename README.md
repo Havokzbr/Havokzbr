@@ -27,7 +27,6 @@
     <img align="center" alt="Havokzbr-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="Havokzbr-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
     <img align="right" alt="Havokzbr-GIF" height="300" width="300" src="https://cdn.discordapp.com/attachments/959274735710134272/1036139130222030849/code.gif">
-   
 </div>
 
 ### 📦 Databases:
